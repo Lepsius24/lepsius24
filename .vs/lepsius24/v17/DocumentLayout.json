@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "H:\\lepsius24\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\lepsius24\\css\\skeleton.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\skeleton.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\WrenKennison.github.io\\verybare.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\lepsius24\\Members\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Members\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -13,13 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\lepsius24\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\lepsius24\\css\\skeleton.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\skeleton.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\WrenKennison.github.io\\verybare.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,20 +37,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "H:\\lepsius24\\Members\\index.html",
               "RelativeDocumentMoniker": "Members\\index.html",
               "ToolTip": "H:\\lepsius24\\Members\\index.html",
               "RelativeToolTip": "Members\\index.html",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFkAAAAUAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwFkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-07-15T20:49:20.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "H:\\lepsius24\\Friends of Lepsius\\index.html",
               "RelativeDocumentMoniker": "Friends of Lepsius\\index.html",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "Friends of Lepsius\\index.html",
               "ViewState": "AQIAAEgAAAAAAAAAAAAAAFwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T20:48:56.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T20:48:56.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "H:\\lepsius24\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T20:48:45.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T20:48:45.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "verybare.css",
               "DocumentMoniker": "H:\\WrenKennison.github.io\\verybare.css",
               "RelativeDocumentMoniker": "..\\WrenKennison.github.io\\verybare.css",
@@ -89,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "skeleton.css",
               "DocumentMoniker": "H:\\lepsius24\\css\\skeleton.css",
               "RelativeDocumentMoniker": "css\\skeleton.css",
               "ToolTip": "H:\\lepsius24\\css\\skeleton.css",
               "RelativeToolTip": "css\\skeleton.css",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAKUAAAAOAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAI4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-15T16:08:39.814Z",
               "EditorCaption": ""

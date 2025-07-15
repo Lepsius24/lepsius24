@@ -152,7 +152,7 @@ body {
 
  #navbar {
   padding-top: 100;
-  background-image: url('/IMAGES/navbar.png');
+  background-image: url('IMAGES/navbar.png');
   font-size: 1.2em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: .5;
   font-weight: 700;
@@ -162,9 +162,10 @@ body {
   #footer {
   position: fixed;
   left: 0;
+  background-color: white;
   bottom: 0;
   width: 100%;
-  background-image: url('/IMAGES/navbar.png');
+  background-image: url('IMAGES/navbar.png');
   color: black;
   text-align: center;
 }
