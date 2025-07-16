@@ -127,7 +127,26 @@ body {
   font-family: "Courier New";
   color: #222; }
 
+ #albumaside {
+  font-size: 1.2em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1;
+  text-width: 40%;
+  background-color: #dbe6ff;
+  font-weight: 500;
+  font-family: "Courier New";
+  color: #000; 
+  }
 
+ #nuh {
+  font-size: 1.2em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1;
+  text-width: 40%;
+  background-color: #ffdbdb;
+  font-weight: 500;
+  font-family: "Courier New";
+  color: #000; 
+  }
+ 
 
  #titlecard {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
